@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
 <h3 align="center">I'm third grade computer engineering student at Dokuz Eylül University.</h3>
 I completed so many projects with so many different field by using different programming languages but currently I'm working and improving myself on data science, machine learning, deep learning. I'm addicted to getting better everyday and can not stop learning until become the best one. My aim is to become a successful data developer/machine learning developer.</br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ayberkkilicaslan&label=Profile%20views&color=0e75b6&style=flat" alt="ayberkkilicaslan" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayberkkilicaslan" alt="ayberkkilicaslan" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 - 🔭 I’m currently working on **deep learning projects.**
 - 🌱 I’m currently learning **openCV and deep learning.**
 - 💻 All of my projects are available at my repositories.
