@@ -4,7 +4,7 @@ I completed so many projects with so many different field by using different pro
 - 🔭 I’m currently working on **deep learning projects.**
 
 - 🌱 I’m currently learning **openCV and deep learning.**
-
+- 💻 All of my projects are available at my repositories.
 - 📫 How to reach me **sayberkkilicaslan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
