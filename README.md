@@ -20,6 +20,6 @@ I completed so many projects with so many different field by using different pro
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayberkkilicaslan&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="ayberkkilicaslan" /></p>
 ### Now Playing 🎧
 
-[![Spotify](https://api.spotify.com/v1/ayberkV/player/recently-played)](https://open.spotify.com/user/stileles)
+[![Spotify](https://api.spotify.com/v1/me/player/recently-played)](https://open.spotify.com/user/stileles)
 <br/>
 ---
