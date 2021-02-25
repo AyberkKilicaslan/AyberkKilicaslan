@@ -3,7 +3,7 @@
 I completed so many projects with so many different field by using different programming languages but currently I'm working and improving myself on data science, machine learning, deep learning. I'm addicted to getting better everyday and can not stop learning until become the best one. My aim is to become a successful data developer/machine learning developer.</br>
 
 
-- 🔭 I’m currently working on **deep learning projects.**
+- 🔭 I’m currently working on **deep learning image processing projects.**
 - 🌱 I’m currently learning **openCV and deep learning.**
 - 💻 All of my projects are available at my repositories.
 - 📫 How to reach me **sayberkkilicaslan@gmail.com**
