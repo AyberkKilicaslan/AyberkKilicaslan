@@ -4,7 +4,7 @@ I completed so many projects with so many different field by using different pro
 
 
 - 🔭 I’m currently working on **deep learning image processing projects.**
-- 🌱 I’m currently learning **openCV and deep learning.**
+- 🌱 I’m currently learning **medical image processing-segmentation, deep learning and data science.**
 - 💻 All of my projects are available at my repositories.
 - 📫 How to reach me **sayberkkilicaslan@gmail.com**
 - 📄 Know about my experiences here my cv : (https://smallpdf.com/shared#st=82818a71-d106-47a0-a92a-e7645844c172&fn=ayberkCv.pdf&ct=1614013092067&tl=share-document&rf=link)
