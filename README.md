@@ -7,7 +7,7 @@ I completed so many projects with so many different field by using different pro
 - 🌱 I’m currently learning **medical image processing-segmentation, deep learning and data science.**
 - 💻 All of my projects are available at my repositories.
 - 📫 How to reach me **sayberkkilicaslan@gmail.com**
-- 📄 Know about my experiences here my cv : (https://www.docdroid.net/ceGU3e1/ayberkkilicaslan-cv-pdf)
+- 📄 Know about my experiences here my cv : (https://www.docdroid.net/dk84fUw/ayberkkilicaslancv-pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
