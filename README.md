@@ -1,12 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ayberk</h1>
-I completed so many projects with so many different field by using different programming languages but currently I'm working and improving myself on data science, machine learning, deep learning. I'm addicted to getting better everyday and can not stop learning until become the best one. My aim is to become a successful data developer/machine learning developer.</br>
+I'm Ayberk. I graduated from Dokuz Eylul University, Computer Engineering Bachelor Degree and now I'm going to start my INFORMATIK master degree in TUM. So I'm looking for a job in my field. I am available to work after end of October/ starting from November.
+
+I've been working in Data Science area for 2 years. I worked 8 months of this as a part time data scientist at an insurance company which name is Anadolu Hayat Emeklilik. 
+I see the efforts of my work in this field by receiving awards in many competitions I participate in such as Teknofest and so on. 
+I am lucky to find the job I love early and I want to create opportunities for myself to develop in this field.</br>
 
 
-- 🔭 I’m currently working on **deep learning image processing projects.**
-- 🌱 I’m currently learning **medical image processing-segmentation, deep learning and data science.**
+- 🔭 I’m currently working on **machine learning and data science projects.**
+- 🌱 I’m currently learning **data science, data analysis and machine learning.**
 - 💻 All of my projects are available at my repositories.
 - 📫 How to reach me **sayberkkilicaslan@gmail.com**
-- 📄 Know about my experiences here my cv : (https://www.docdroid.net/dk84fUw/ayberkkilicaslancv-pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
