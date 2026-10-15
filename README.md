@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ayberk</h1>
-I'm Ayberk. I graduated from Dokuz Eylul University, Computer Engineering Bachelor Degree and now I'm going to start my INFORMATIK master degree in TUM. So I'm looking for a job in my field. I am available to work after end of October/ starting from November.
-
-I've been working in Data Science area for 2 years. I worked 8 months of this as a part time data scientist at an insurance company which name is Anadolu Hayat Emeklilik. 
-I see the efforts of my work in this field by receiving awards in many competitions I participate in such as Teknofest and so on. 
-I am lucky to find the job I love early and I want to create opportunities for myself to develop in this field.</br>
+<img width="4032" height="933" alt="image" src="https://github.com/user-attachments/assets/73838dfd-d2d2-4465-9fb3-723396c78280" /><h1 align="center">Hi 👋, I'm Ayberk</h1>
+I'm a Data Scientist with a background in Computer Engineering, passionate about turning complex data into impactful business solutions. My work spans machine learning, predictive modeling, experimentation, and analytics, with a focus on delivering measurable value through data-driven decision making. I enjoy building end-to-end data products, from data collection and feature engineering to model deployment and monitoring. Constantly exploring new advancements in AI, MLOps, and scalable machine learning systems, I strive to bridge the gap between business needs and cutting-edge technology.</br>
 
 
 - 🔭 I’m currently working on **machine learning and data science projects.**
